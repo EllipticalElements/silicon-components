@@ -1,4 +1,4 @@
-# MD-COMPONENT
+# SILICON-COMPONENTS
 
 
 
@@ -6,18 +6,11 @@
 
 ``` bash
 
-bower install md-component --save
+bower install silicon-components --save
 
 ```
 
-## Usage
 
-```html
-
-<link rel="import" href="bower_components/md-component/md-component.html">
-
-<md-component></md-component>
-```
 
 
 

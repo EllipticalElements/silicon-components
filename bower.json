@@ -1,10 +1,10 @@
 {
   "name": "silicon-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "S. Francis"
   ],
-  "description": "",
+  "description": "silicon web components",
   "keywords": [
     "web-component",
     "polymer",
@@ -39,8 +39,8 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
-    "elliptical-polymer-behaviors": "~1.0.11",
-    "neon-animation": "PolymerElements/neon-animation#~1.0.9"
+    "silicon-form": "~1.0.4",
+    "silicon-history": "~1.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
